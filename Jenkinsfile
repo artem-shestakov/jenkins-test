@@ -1,4 +1,3 @@
-# Test pipeline
 pipeline {
   agent any
   stages {
